@@ -1,2 +1,2 @@
 # pandas2polars
-a notbook helping to transition from pandas to polars
+a notebook helping to transition from pandas to polars
